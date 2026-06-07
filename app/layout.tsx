@@ -12,7 +12,7 @@ const vazirmatn = Vazirmatn({
 });
 
 export const metadata: Metadata = {
-  title: "پاستا یاب | Pasta Guesser",
+  title: "کارگاه پاستاسازی لوزی",
   description: "یک بازی کوچک و سرگرم‌کننده برای حدس زدن انواع پاستا",
 };
 

@@ -123,7 +123,7 @@ export function GameEngine() {
     <div className="w-full flex flex-col gap-6">
       {/* Header */}
       <div className="flex items-center justify-between w-full px-2">
-        <h1 className="text-2xl font-bold text-foreground">🍝 پاستا یاب</h1>
+          <h1 className="text-l font-bold text-foreground">بازی حدس پاستا 🍝 کارگاه پاستاسازی لوزی</h1>
         <ThemeToggle />
       </div>
 

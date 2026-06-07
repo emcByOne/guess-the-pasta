@@ -1,20 +1,32 @@
 [
   {
     "id": 1,
-    "imageBaseName": "pasta-1",
-    "choices": ["اسپاگتی", "فتوچینی", "پنه ریگاته", "فوسیلی"],
+    "imageBaseName": "pesto",
+    "choices": ["پستو", "کربونارا", "راویولی با سلویا", "سالاد"],
     "correctIndex": 0
   },
   {
     "id": 2,
-    "imageBaseName": "pasta-2",
-    "choices": ["راویولی", "تورتلینی", "آنولوتی", "کاپلتی"],
+    "imageBaseName": "carbonara",
+    "choices": ["بلونیایی", "کربونارا", "آلفردو", "سیر،پیاز،جعفری"],
     "correctIndex": 1
   },
   {
     "id": 3,
-    "imageBaseName": "pasta-3",
-    "choices": ["فارفاله", "اورکیتا", "کونکیلیه", "رادیاتوری"],
+    "imageBaseName": "bolognian",
+    "choices": ["عصبی", "کربونارا", "بلونیایی", "راویولی با سلویا"],
     "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "imageBaseName": "asabi",
+    "choices": ["عصبی", "کربونارا", "بلونیایی", "راویولی با سلویا"],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "imageBaseName": "four-cheese",
+    "choices": ["عصبی", "کربونارا", "چهارپنیر", "راویولی با سلویا"],
+    "correctIndex": 3
   }
 ]
