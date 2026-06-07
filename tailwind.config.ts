@@ -1,0 +1,26 @@
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  darkMode: "class",
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        // These map directly to the CSS variables defined in globals.css
+        background: "var(--background)",
+        foreground: "var(--foreground)",
+        accent: "var(--accent)",
+      },
+      fontFamily: {
+        sans: ["var(--font-vazirmatn)", "system-ui", "sans-serif"],
+      },
+    },
+  },
+  plugins: []
+};
+
+export default config;

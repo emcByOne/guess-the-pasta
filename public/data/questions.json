@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageBaseName": "pasta-1",
+    "choices": ["اسپاگتی", "فتوچینی", "پنه ریگاته", "فوسیلی"],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "imageBaseName": "pasta-2",
+    "choices": ["راویولی", "تورتلینی", "آنولوتی", "کاپلتی"],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "imageBaseName": "pasta-3",
+    "choices": ["فارفاله", "اورکیتا", "کونکیلیه", "رادیاتوری"],
+    "correctIndex": 2
+  }
+]
